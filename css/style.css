@@ -1,0 +1,53 @@
+html{
+background-color:rgb(40,0,0);
+}
+
+a{
+	text-decoration: none;
+	color:grey;
+	font-family: tahoma;
+}
+
+ul{
+	list-style-type: none;
+	padding-top: 15px;
+}
+
+li a{
+	font-family: tahoma;
+	font-size: 30px;
+	color:grey;
+	float:left;
+	text-decoration: none;
+	padding:30px;
+	background-color:rgb(80,0,0);
+}
+
+li a:hover{
+	background-color: rgb(100,0,0);
+}
+
+#meniLevo{
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+#meniDesno{
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+#prijava{
+	text-align: center;
+	color:grey;
+	font-size: 25px;
+	padding:15px;
+}
+
+form span{
+	margin:15px;
+}
+
+.uporabniskiPodatki{
+	margin:10px;
+}
